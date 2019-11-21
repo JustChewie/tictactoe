@@ -1,4 +1,4 @@
-// tictactoe 0.1 Alpha by Artem B.
+// tictactoe 0.2 Alpha by Artem B.
 #include <iostream>
 #include <string>
 using namespace std;
